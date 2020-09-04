@@ -1,3 +1,3 @@
 def hello_world(phrase)
-puts "Hello World!"
+puts "#{phrase}"
 end 

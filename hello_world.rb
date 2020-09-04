@@ -1,3 +1,3 @@
-def hello_world(phrase)
+def hello_world("Hello World!")
 puts "Hello World!"
 end 
